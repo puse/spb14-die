@@ -1,0 +1,22 @@
+{
+  "name": "spb14-die",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "ava"
+  },
+  "author": "Che Oshn",
+  "license": "MIT",
+  "repository": "spb14/die",
+  "devDependencies": {
+    "ava": "^0.17.0"
+  },
+  "dependencies": {
+    "spb14-coin": "^1.2.1",
+    "spb14-device": "^1.1.0"
+  }
+}
